@@ -1,7 +1,7 @@
 import { Text } from "react-native";
 
 function Home() {
-  return <Text>Home</Text>;
+  return <Text>Hello Home</Text>;
 }
 
 export default Home;
